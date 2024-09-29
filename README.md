@@ -20,6 +20,7 @@
 <a href="https://www.linkedin.com/in/avadh-kanaiya-61bb42197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avadh-kanaiya-61bb42197" height="30" width="40" /></a>
 <a href="https://instagram.com/avadhkanaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avadhkanaiya" height="30" width="40" /></a>
 </p>
+[![An image of @avadhkanaiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avadhkanaiya)](https://holopin.io/@avadhkanaiya)
 
 <a href="https://app.daily.dev/avadhkanaiya"><img src="https://api.daily.dev/devcards/0be89072634e409690972aa115202899.png?r=iw2" width="400" alt="Avadh Kanaiya's Dev Card"/></a>
 <h3 align="left">Languages and Tools:</h3>
